@@ -1,0 +1,3 @@
+o automato possui n células
+existem diversas regras
+cada automato utiliza uma regra
